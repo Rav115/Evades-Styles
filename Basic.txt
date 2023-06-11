@@ -1,0 +1,67 @@
+div.hall-of-fame-players {
+  width: 380px;
+  padding-bottom: 3100px;
+}
+div.hall-of-fame-player {
+    width: 300px;
+    text-align: center;
+    margin-left: 25px;
+}
+div.hall-of-fame {
+  width: 350px;
+}
+div.changelog {
+  height: 3330px;
+  margin-top: 0px;
+  margin-left: -50px;
+}
+div.server-browser-box {
+    height: 320px;
+}
+div.game-server-row {
+  margin-bottom: -10px;
+}
+
+div.profile-weeks-container {
+  height: 2000px;
+}
+
+
+div.run-entry {
+  display: grid;
+  width: 1000px;
+}
+
+div.runs-list {
+  width: 1050px;
+  height: 1700px;
+}
+
+div.hero-select-heroes-container {
+    width: 1700px;
+  padding-left: -px;
+  margin-left: -300px;
+}
+
+#changelogs {
+  margin-left: -px;
+  border-left-width: -px;
+  border-style: none;
+}
+
+div.ts-links {
+  padding-bottom: 300px;
+  margin-left: -50px;
+  overflow-y: hidden;
+}
+
+div.ts-changelog {
+  padding-bottom: 3080px;
+  padding-left: -px;
+  border-left-width: -px;
+  margin-left: -50px;
+}
+
+#chlbuttons {
+  margin-left: -50px;
+}
