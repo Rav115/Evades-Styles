@@ -1,4 +1,4 @@
-div.hall-of-fame-players {width: 380px !important;  padding-bottom : 3100px !important;}
+div.hall-of-fame-players {width: 380px !important;  max-height: unset !important; padding-bottom: 55px;}
 div.hall-of-fame-player {width: 300px !important; margin-left: 25px !important;}
 div.hall-of-fame {width: 350px !important;}
 div.changelog {height: 3330px !important;  margin-left: -50px !important;}
