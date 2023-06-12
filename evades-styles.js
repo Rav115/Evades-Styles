@@ -24,7 +24,9 @@ div.profile-weeks-container {  height: 2000px !important; width: 1500px !importa
 div.run-entry {  display: grid;  width: 1000px !important;}
 div.runs-list {  width: 1050px !important;  height: 1700px !important;}
 div.hero-select{width: 90% !important; max-width: 1700px !important;}
-div.hero-select-heroes-container {width: 100% !important;  margin-left: auto !important;}
+div.hero-select-heroes-container {width: 100% !important;  margin-left: auto !important; gap: 20px !important;}
+div.hero-select-container{ margin: unset !important;  width: unset !important;}
+div.hero-select-rectangle {margin: unset !important;}
 #changelogs { border-style: none !important;}
 div.ts-links {  padding-bottom: 300px !important;  margin-left: -50px !important;  overflow-y: hidden !important;}
 div.ts-changelog {  padding-bottom: 3080px !important;  margin-left: -50px !important;}
