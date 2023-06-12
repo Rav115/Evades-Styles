@@ -15,10 +15,10 @@
 
     GM_addStyle ( `
 div.hall-of-fame-players {  width: 380px !important;  padding-bottom : 3100px !important;}
-div.hall-of-fame-player {    width: 300px !important;    text-align: center !important;    margin-left: 25px !important;}
+div.hall-of-fame-player {    width: 300px !important;    margin-left: 25px !important;}
 div.hall-of-fame {  width: 350px !important;}
 div.changelog {  height: 3330px !important;  margin-left: -50px !important;}
-div.server-browser-box {    height: 320px !important; overflow-y: hidden !important;}
+div.server-browser-box {height: unset !important; overflow: hidden !important; padding-bottom: 10px !important;}
 div.game-server-row {  margin-bottom: -10px !important;}
 div.profile-weeks-container {  height: 2000px !important; width: 1500px !important}
 div.run-entry {  display: grid;  width: 1000px !important;}
